@@ -1,7 +1,8 @@
 /**
  * Author: Nataliya Brana
- * Date: 2020
- *
+ * Date: 2020/08/18
+ * 
+ * A simple program in C "Hello World!"
  *
  */
 #include <stdlib.h>
